@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **anything related to Py, Java or C**
 
-- 🤝 I’m looking for help with **Advanced Java Functions**
+- 🤝 I’m looking for help with **Advanced Java Functions and ReClass with certain games (cough cough *league and val***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nipicoco?tab=repositories](https://github.com/Nipicoco?tab=repositories)
 
