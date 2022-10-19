@@ -21,8 +21,6 @@
 
 - 📫 How to reach me **nvergara2021@alu.uct.cl**
 
-- 📄 Know about my experiences [https://pillan.inf.uct.cl/~nvergara/random/yo/](https://pillan.inf.uct.cl/~nvergara/random/yo/)
-
 - ⚡ Fun fact **I dont like university.**
 
 <h3 align="left">Connect with me:</h3>
