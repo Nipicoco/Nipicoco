@@ -1,25 +1,20 @@
-<h1 align="center">Hi 👋, I'm Nicolas Vergara</h1>
+<h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A passionate frontend developer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipicoco&label=Visitas&color=7f3478&style=flat" alt="nipicoco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipicoco" alt="nipicoco" /></a> </p>
 
-- 🔭 I’m currently working on **majour C programming title**
+- 🔭 I’m currently working on **learning C**
 
-- 🌱 I’m currently learning **Frameworks, Java Hashmapping and C threads**
+- 🌱 I’m currently learning **Frameworks, Java Hashmapping and C**
 
 - 👯 I’m looking to collaborate on **anything related to Py, Java or C**
 
-- 🤝 I’m looking for help with **Advanced Java Functions and ReClass with certain games (cough cough *league and val***
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nipicoco?tab=repositories](https://github.com/Nipicoco?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language.](https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language.)
-
-- 💬 Ask me about **React, HTML, Ruby or C**
-
-- 📫 How to reach me **nvergara2021@alu.uct.cl**
+- 💬 Ask me about **React, HTML, Ruby or basic C**
 
 - ⚡ Fun fact **I dont like university.**
 
