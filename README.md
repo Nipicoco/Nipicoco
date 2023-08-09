@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning C**
 
-- 🌱 I’m currently learning **Frameworks, Java Hashmapping and C**
+- 🌱 I’m currently learning **Frameworks**
 
 - 👯 I’m looking to collaborate on **anything related to Py, Java or C**
 
