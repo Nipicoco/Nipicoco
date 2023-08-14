@@ -5,18 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nipicoco" alt="nipicoco" /></a> </p>
 
-- 🔭 I’m currently working on **learning C**
+- 🔭 I’m currently working on **learning Rust**
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on **anything related to Py, Java or C**
+- 👯 I’m looking to collaborate on **anything!**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nipicoco?tab=repositories](https://github.com/Nipicoco?tab=repositories)
 
-- 💬 Ask me about **React, HTML, Ruby or basic C**
+- 💬 Ask me about **Python, Web Design, Rust or the languages down below**
 
-- ⚡ Fun fact **I dont like university.**
+- ⚡ Fun fact **I dont like life.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
