@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h1 align="center">Hi 👋, I'm Nico</h1>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipicoco&label=Visitas&color=7f3478&style=flat" alt="nipicoco" /> </p>
 
